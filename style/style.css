@@ -1,0 +1,15 @@
+.new-post.content {
+  min-height: 20rem;
+}
+
+.form-error {
+  background-color: rgba(128,0,0,0.5)
+}
+.form-error-message {
+  padding: 0.1rem;
+  color: red;
+}
+
+.offset-left {
+  margin-left: 5px;
+}
